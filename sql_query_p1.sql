@@ -183,5 +183,4 @@ GROUP BY 1;
 	COUNT(*) as total_orders
  FROM hourly_sale
  GROUP BY shift;
- 
  -- End of Project
